@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrimeReportingSystemAPP", "CrimeReportingSystem\CrimeReportingSystemAPP.csproj", "{84493814-2AF3-4C54-842F-5EEC552E8122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrimeReportingSystem.Tests", "CrimeReportingSystem.Tests\CrimeReportingSystem.Tests.csproj", "{3C6A8BA2-0E3E-4309-AEFD-924C46F24C5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84493814-2AF3-4C54-842F-5EEC552E8122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84493814-2AF3-4C54-842F-5EEC552E8122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84493814-2AF3-4C54-842F-5EEC552E8122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84493814-2AF3-4C54-842F-5EEC552E8122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C6A8BA2-0E3E-4309-AEFD-924C46F24C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C6A8BA2-0E3E-4309-AEFD-924C46F24C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C6A8BA2-0E3E-4309-AEFD-924C46F24C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C6A8BA2-0E3E-4309-AEFD-924C46F24C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A8C95E8-C434-4F18-9C1B-651EBD68A037}
+	EndGlobalSection
+EndGlobal
